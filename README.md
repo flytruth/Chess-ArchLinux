@@ -64,5 +64,3 @@ The `LRUCache.hpp.gch` file is a precompiled header — you can ignore it or del
 - **Tested on Arch.** It should compile on other distros but I haven't verified.
 
 ---
-
-<p align="center"><em>Chess, in a terminal, against a bot. That's the whole pitch.</em></p>
